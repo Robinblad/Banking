@@ -1,0 +1,280 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@500;600;700&family=Inter:wght@500;700&family=Roboto:wght@400;500;700&display=swap');
+
+.nav {
+   font-family: Roboto;
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 20px;
+   letter-spacing: 0.01em;
+   color: #404041;
+}
+
+.section1__leftside-header {
+   font-family: Bai Jamjuree;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 80px;
+   line-height: 80px;
+   letter-spacing: -0.01em;
+   color: #222223;
+}
+
+.section1__leftside-span {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 30px;
+   letter-spacing: 0.01em;
+   color: #535354;
+}
+
+.section1__leftside-buttonName {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 19px;
+   line-height: 19px;
+   color: #222223;
+}
+
+.section2__item1-header {
+   font-family: Bai Jamjuree;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 35px;
+   line-height: 42px;
+   color: #222223;
+}
+
+.section2__item1-text {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 26px;
+   letter-spacing: 0.01em;
+   color: #5F5F64;
+}
+
+.section2__item-text {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 26px;
+   letter-spacing: 0.01em;
+   color: #5F5F64;
+}
+
+.section2__item-header {
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 28px;
+   letter-spacing: 0.01em;
+   color: #17181A;
+}
+
+.section3__leftside-header1 {
+   font-family: Bai Jamjuree;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 30px;
+   line-height: 38px;
+   color: #202020;
+}
+
+.section3__leftside-header2 {
+   font-family: Bai Jamjuree;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 30px;
+   line-height: 38px;
+   color: #202020;
+}
+
+.section3__leftside-text {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 26px;
+   letter-spacing: 0.02em;
+   color: #5F5F64;
+}
+
+.section4__header {
+   font-family: Bai Jamjuree;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 80px;
+   line-height: 80px;
+   text-align: center;
+   letter-spacing: 0.01em;
+   color: #0D1111;
+}
+
+.section4__text {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 28px;
+   text-align: center;
+   color: #767E7E;
+}
+
+.section5__header {
+   font-family: Inter;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 20px;
+   text-align: center;
+   letter-spacing: 0.4em;
+   color: #718176;
+   letter-spacing: 7px;
+}
+
+.section5__text {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 25px;
+   line-height: 40px;
+   text-align: center;
+   letter-spacing: 0.01em;
+   color: #000000;
+}
+
+.section6__rightside-header {
+   font-family: Bai Jamjuree;
+   font-style: normal;
+   font-weight: 600;
+   font-size: 52px;
+   line-height: 62px;
+   letter-spacing: -0.01em;
+   color: #192430;
+}
+
+.section6__rightside-text {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 28px;
+   letter-spacing: 0.01em;
+   color: #727272;
+}
+
+.section6__rightside-title {
+   font-family: Bai Jamjuree;
+   font-style: normal;
+   font-weight: 600;
+   font-size: 20px;
+   line-height: 28px;
+   color: #222222;
+}
+
+.section6__rightside-subtitle {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 15px;
+   line-height: 27px;
+   color: #727272;
+}
+
+.section7__leftside-uptext {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 27px;
+   letter-spacing: 0.01em;
+   color: #414449;
+}
+
+.section7__centerside-header {
+   font-family: Bai Jamjuree;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 60px;
+   line-height: 70px;
+   letter-spacing: -0.02em;
+}
+
+.section7__centerside-button {
+   color: #FFFFFF;
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 16px;
+}
+
+.footer__register {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 20px;
+   text-align: center;
+   letter-spacing: 0.01em;
+   color: #404041;
+}
+
+.footer__copyright {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 14px;
+   text-align: center;
+   color: rgba(27, 27, 27, 0.35);
+}
+
+.footer__creator {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 14px;
+   text-align: right;
+   color: #7B827D;
+}
+
+.input {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 20px;
+   text-align: center;
+   letter-spacing: 0.01em;
+   color: #404041;
+}
+
+.popup__header {
+   font-family: Bai Jamjuree;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 24px;
+   line-height: 26px;
+   text-align: center;
+   letter-spacing: 0.01em;
+   color: #404041;
+}
+
+.submit {
+   font-family: Bai Jamjuree;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 20px;
+   text-align: center;
+   letter-spacing: 0.01em;
+   color: #404041;
+}
